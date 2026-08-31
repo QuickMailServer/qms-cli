@@ -1,5 +1,12 @@
 # QMS qms-cli
 
+* https://source.masscollabs.xyz/qms/qms_cli
+
+* https://codeberg.org/QuickMailServer/qms_cli 
+
+* https://github.com/QuickMailServer/qms_cli
+
+
 QMS qms-cli framework for managing server and client e-mail traffic smart way
 
 Look, running a mail server in this day and age is a bit like running a subway system during rush hour: most of what comes through the turnstiles belongs there, but a fair amount of it is trying to shove a fake Rolex in your face or convince you that a prince overseas needs your bank details. QMS qms-cli is our answer to that problem — an open source, AI/LLM-assisted mail server and client toolkit that you drive entirely from the terminal. No dashboards, no mystery meat UI, just a CLI that tells you what it's doing and lets you get on with your day.
